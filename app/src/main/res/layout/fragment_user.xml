@@ -50,7 +50,7 @@
                 android:focusable="false"
                 android:focusableInTouchMode="false"
                 android:gravity="center"
-                android:text="历史"
+                android:text="播放历史"
                 android:textAlignment="gravity"
                 android:textColor="@color/color_CCFFFFFF"
                 android:textSize="@dimen/ts_40" />
@@ -89,7 +89,7 @@
                 android:focusable="false"
                 android:focusableInTouchMode="false"
                 android:gravity="center"
-                android:text="直播"
+                android:text="电视直播"
                 android:textAlignment="gravity"
                 android:textColor="@color/color_CCFFFFFF"
                 android:textSize="@dimen/ts_40" />
@@ -247,7 +247,7 @@
                 android:focusable="false"
                 android:focusableInTouchMode="false"
                 android:gravity="center"
-                android:text="设置"
+                android:text="控制面板"
                 android:textAlignment="gravity"
                 android:textColor="@color/color_CCFFFFFF"
                 android:textSize="@dimen/ts_40" />
